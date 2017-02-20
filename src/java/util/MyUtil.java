@@ -12,7 +12,7 @@ package util;
 public class MyUtil {
     
     public static String baseurl() {
-        return "http://localhost:8080/jsfhibernate/";
+        return "http://localhost:8080/JSFHibernate/";
     }
     
 }

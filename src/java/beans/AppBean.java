@@ -14,7 +14,7 @@ import util.MyUtil;
  * @author erick
  */
 @Named(value = "appBean")
-@ApplicationScoped
+@ApplicationScoped  
 public class AppBean {
 
     /**
